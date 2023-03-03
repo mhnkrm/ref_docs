@@ -1,0 +1,2 @@
+# Search for text swdl in all files in current directory and subdirectory
+      grep -rnw . -e 'swdl.*'
